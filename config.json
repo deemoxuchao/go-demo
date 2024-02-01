@@ -1,0 +1,8 @@
+{
+  "listenAddr": ":8080",
+  "recipients": ["hsurich@qq.com", "deemoxuchao@gmail.com"],
+  "emailFrom": "hsurich@qq.com",
+  "emailPass": "yourPassword",
+  "interval": "10s",
+  "timeout": "10m"
+}
